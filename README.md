@@ -232,19 +232,3 @@ Use historical monthly revenue patterns to forecast demand and prepare inventory
 - Business Insight Generation
 
 ---
-
-## 📂 Project Structure
-
-```text
-FNP-Sales-Analysis/
-│
-├── Dashboard/
-│   └── FNP_Sales_Dashboard.xlsx
-│
-├── Dataset/
-│   └── FNP_Sales_Data.xlsx
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
